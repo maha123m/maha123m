@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Maha Mali
-- 💻 I am a third year student
+- 💻 I am a fourth year student
 
 
 <br />
