@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 - 💻 Computer System Engineering Student @ Birzeit University
 - 📫 How to reach me: mmaha7036@gmail.com
 
- 
+ <h2 align="center">Programming Languages 💻</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30">
+</p>
 
 <h2 align="center">Quick Overview 📈</h2>
   
