@@ -31,6 +31,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" height="30">
 </p>
 
+<h2 align="center">Frameworks & Libraries 🚀</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="30">
+</p>
+
+
 
 <h2 align="center">Used Tools 🛠️</h2>
 <p align="center">
